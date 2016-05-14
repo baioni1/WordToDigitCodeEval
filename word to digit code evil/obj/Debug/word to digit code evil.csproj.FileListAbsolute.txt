@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\word to digit code evil\word to digit code evil\bin\Debug\word to digit code evil.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\word to digit code evil\word to digit code evil\bin\Debug\word to digit code evil.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\word to digit code evil\word to digit code evil\bin\Debug\word to digit code evil.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\word to digit code evil\word to digit code evil\obj\Debug\word to digit code evil.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\word to digit code evil\word to digit code evil\obj\Debug\word to digit code evil.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\word to digit code evil\word to digit code evil\obj\Debug\word to digit code evil.csprojResolveAssemblyReference.cache
